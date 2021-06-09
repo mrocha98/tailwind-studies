@@ -1,0 +1,7 @@
+.cache/
+node_modules/
+public/
+posts/
+static/
+package-lock.json
+yarn.lock
